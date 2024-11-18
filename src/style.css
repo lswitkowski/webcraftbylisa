@@ -4,7 +4,7 @@ padding: 30px;
 margin:0 auto;}
 
 img{border-radius: 3px;}
-
+.icon-box{margin-left: 5%;}
 .icons{margin-right:10px;
 }
 
@@ -15,10 +15,18 @@ background-color: rgba(239, 248, 275, 0.7);
 border-radius: 4px;
 margin-left: 10px;}
 
-.intro-p{line-height: 1.5;}
+.intro-p{line-height: 1.5}
+ul{list-style: none;}
+
+li{line-height: 2;}
 
 .navbar-brand{margin-left:3%;}
 .navbar-toggler{margin-right: 5%;}
+.shecodeslogo{max-width: 130px;
+    padding:10px;
+}
+.finlogo{max-width: 150px;
+padding:10px;}
 
 @media(max-width:768px){
     img{display: block;
