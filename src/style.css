@@ -16,7 +16,7 @@ font-size: 12px;}
 
 img{border-radius: 3px;}
 .icon-box{margin-left: 3%;}
-.icons{margin-right:10px;
+.icons{margin-right:0px;
     font-size: 13px;
 }
 
@@ -29,7 +29,8 @@ img{border-radius: 3px;}
 .navbar-toggler{margin-right: 5%;}
 .nav-item{margin-left: 2%;}
 
-p{font-size: 16px;}
+p{font-size: 16px;
+line-height: 1.5;}
 
 .c-1{
     line-height: 1.5;
@@ -41,7 +42,8 @@ margin-left: 10px;
 box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.4);}
 
 
-.intro-p{line-height: 1.5}
+.intro-p{line-height: 2;
+font-size: 17px;}
 ul{list-style: none;}
 
 li{line-height: 2;}
