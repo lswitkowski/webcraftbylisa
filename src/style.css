@@ -1,3 +1,12 @@
+h1{
+ font-weight: 600;
+ font-size: 54px;
+ text-align: center;
+ padding: 20px;   
+ margin-top: 20px;
+}
+
+
 footer{
 background-position: bottom, 30px;
 padding: 20px;
@@ -33,11 +42,15 @@ li{line-height: 2;}
 .finlogo{max-width: 150px;
 padding:10px;}
 .reactweather{width:100%;
-margin-top: 10px;
-padding: 20px;}
-
-.toulouse{width:90%;
 margin-top: 20px;}
+
+.toulouse{width:100%;
+margin-top: 20px;
+}
+
+.aipoem{width:100%;
+margin-top: 20px;}
+
 
 @media(max-width:768px){
     img{display: block;
