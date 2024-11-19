@@ -16,11 +16,13 @@ font-size: 12px;}
 img{border-radius: 3px;}
 .icon-box{margin-left: 3%;}
 .icons{margin-right:10px;
+    font-size: 12px;
 }
 
 nav{
     background-color: rgb(239, 248, 275);
 }
+p{font-size: 16px;}
 .container{
 width:100%;
 padding:2%;
@@ -45,11 +47,11 @@ padding:10px;}
 margin-top: 20px;}
 
 .toulouse{width:100%;
-margin-top: 20px;
+margin-top: 15px;
 }
 
 .aipoem{width:100%;
-margin-top: 20px;}
+margin-top: 15px;}
 
 
 @media(max-width:768px){
