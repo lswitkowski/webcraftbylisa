@@ -23,13 +23,16 @@ nav{
     background-color: rgb(239, 248, 275);
 }
 p{font-size: 16px;}
+
 .container{
+    line-height: 1.5;
 width:100%;
 padding:2%;
 background-color: rgba(239, 248, 275, 0.7);
 border-radius: 4px;
 margin-left: 10px;
 box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.4);}
+
 
 .intro-p{line-height: 1.5}
 ul{list-style: none;}
